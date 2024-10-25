@@ -1,2 +1,4 @@
 venv/
-*.pyc
+blog/__pycache__/*.pyc
+blog/migrations/__pycache__/*.pyc
+config/__pycache__/*.pyc
